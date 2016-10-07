@@ -1,0 +1,5 @@
+clear
+echo "Hello $USER!"
+echo "Today is "; date
+cal
+exit 0
